@@ -62,8 +62,6 @@ UPLOAD_PRESET = "Folder/preset name from your cloudinary account" (OPTIONAL)
 
 #### Client:
 
-Open client/src/backendUrl.js & change "backend" variable to `"http://localhost:3005"`
-
 ```
 cd client
 npm ci
